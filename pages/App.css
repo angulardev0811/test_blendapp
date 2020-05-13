@@ -1,0 +1,16 @@
+.Polaris-Modal-Section {
+  padding: 4rem;
+}
+
+.Polaris-Labelled--hidden {
+    height: 100%;
+  }
+  
+.Polaris-DropZone--sizeSmall {
+  height: 100%;
+}
+
+.Polaris-Thumbnail--sizeLarge {
+  width: 100px;
+  height: 100px;
+}
